@@ -17,15 +17,18 @@ This application allows users to log in with a username and password, check thei
 1. Clone the repository:
    ```bash
    git clone https://github.com/gulistansenates/java-ATM-console-app.git
+   ```
 
 2. Navigate to the project folder:
    ```bash
    cd java-ATM-console-app
+   ```
 
 3. Compile and run the Java file:
    ```bash
    javac ATM.java
    java ATM
+   ```
 
 ## 🛠 Technologies
 
